@@ -120,3 +120,4 @@ from cython_gsl.gsl_min cimport *
 from cython_gsl.gsl_fit cimport *
 from cython_gsl.gsl_multimin cimport *
 from cython_gsl.gsl_multifit_nlin cimport *
+from cython_gsl.gsl_dht cimport *
